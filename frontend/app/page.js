@@ -40,7 +40,15 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24 bg-rose-100">
       {isSent ? (
-        <Image src={gifUrl} width={300} height={300} />
+        <>
+          <Image src={gifUrl} width={300} height={300} />
+          <button
+            onClick={() => setIsSent(false)}
+            className="mt-4 px-4 py-2 bg-rose-500 text-white rounded-md"
+          >
+            Back
+          </button>
+        </>
       ) : (
         <>
           <Image src="/baby-bear-brown.gif" width={300} height={300} />
