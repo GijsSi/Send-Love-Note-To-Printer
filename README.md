@@ -20,7 +20,7 @@ The printer I used for this project is the Epson TM-m30II (But pretty sure any I
 
 ## Frontend Sneak Peek 👀
 
-And this is what the frontend looks like (don't judge me):
+And this is what the frontend looks like:
 
 <img width="50%" alt="Screenshot 2024-03-24 at 18 49 11" src="https://github.com/GijsSi/Send-Love-Note-To-Printer/assets/21217320/13ab405b-9e92-4236-8f9f-ea1ae782bcc5">
 
